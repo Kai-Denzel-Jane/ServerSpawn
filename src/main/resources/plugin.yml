@@ -1,0 +1,4 @@
+name: ServerSpawn
+version: '1.0-SNAPSHOT'
+main: net.kaijane.serverSpawn.ServerSpawn
+api-version: '1.21'
